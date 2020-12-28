@@ -49,7 +49,7 @@ Vulfocus 的 docker 仓库 [https://hub.docker.com/u/vulfocus](https://hub.docke
 
    漏洞镜像的拉取和上传（**需管理员权限**）：
 
-   (1)、在进行管理中，添加功能
+   (1)、在镜像管理中，添加功能
 
    ![](./imgs/image.gif)
 
